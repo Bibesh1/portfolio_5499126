@@ -2,6 +2,12 @@
 
 A new Flutter project.
 
+About me
+Name : Bibesh Kumar Mandal
+Matrikelnummer : 5499126
+Email : bibesh.kumar.mandal@mnd.thm.de
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
