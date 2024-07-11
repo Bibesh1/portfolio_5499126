@@ -7,6 +7,8 @@ Name : Bibesh Kumar Mandal
 Matrikelnummer : 5499126
 Email : bibesh.kumar.mandal@mnd.thm.de
 
+Hosted URL: https://portfolio-c16b5.web.app/
+
 
 ## Getting Started
 
