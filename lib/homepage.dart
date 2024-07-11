@@ -37,7 +37,8 @@ class HomePage extends StatelessWidget {
           height: 300,
           decoration: const BoxDecoration(
             image: DecorationImage(
-              image: NetworkImage('https://example.com/hero_background.jpg'),
+              image: NetworkImage(
+                  'https://media.licdn.com/dms/image/D5603AQFAszmAp6MvNg/profile-displayphoto-shrink_800_800/0/1705067790647?e=2147483647&v=beta&t=pYAzpF5kd2tG9roICSDb8yolS3grvTKyn9b3eGDYazc'),
               fit: BoxFit.cover,
             ),
           ),

@@ -20,8 +20,7 @@ class AboutPage extends StatelessWidget {
                 CircleAvatar(
                   radius: 60,
                   backgroundImage: NetworkImage(
-                      'https://media.licdn.com/dms/image/D5603AQFAszmAp6MvNg/profile-displayphoto-shrink_800_800/0/1705067790647?e=2147483647&v=beta&t=pYAzpF5kd2tG9roICSDb8yolS3grvTKyn9b3eGDYazc'),
-                ),
+                      'https://media.licdn.com/dms/image/D5603AQFAszmAp6MvNg/profile-displayphoto-shrink_800_800/0/1705067790647?e=2147483647&v=beta&t=pYAzpF5kd2tG9roICSDb8yolS3grvTKyn9b3eGDYazc'),),
                 SizedBox(height: 20),
                 Text(
                   'Bibesh Mandal',
@@ -77,6 +76,7 @@ class AboutPage extends StatelessWidget {
                     textAlign: TextAlign.center,
                   ),
                 ),
+
               ],
             ),
           ),
