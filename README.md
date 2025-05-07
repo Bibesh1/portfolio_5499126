@@ -1,16 +1,61 @@
-# portfolio_5499126
+# Portfolio App – Bibesh Kumar Mandal
 
-A new Flutter project.
+Dies ist ein Flutter-Projekt im Rahmen des Praktikums „Portfolio App“ für das Sommersemester 2025.  
+Ich habe dieses Projekt bereits im letzten Jahr durchgeführt und setze es auch in diesem Jahr erneut um.
 
-## Getting Started
+## 📄 Projektinformationen
 
-This project is a starting point for a Flutter application.
+- **Name:** Bibesh Kumar Mandal  
+- **Matrikelnummer:** 5499126  
+- **E-Mail:** bibesh.kumar.mandal@mnd.thm.de  
+- **Projektname (Repository):** `portfolio_5499126`  
+- **Ziel:** Erstellung einer einfachen Portfolio-App mit strukturierter Projektarchitektur und Git-Versionskontrolle.
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Flutter-Version
+       Flutter 3.29.3
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Dieses Projekt wurde mit **Flutter  3.29.3 entwickelt.  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## ▶️ So startest du das Projekt
+Installation
+Repository klonen
+
+bash
+git clone https://github.com/dein-username/portfolio.git
+cd portfolio
+Abhängigkeiten installieren (falls benötigt)
+
+bash
+npm install
+Projekt starten
+
+bash
+npm start
+
+🌿 Git-Branching-Strategie
+Wir verwenden eine strukturierte Branching-Strategie für bessere Übersicht und Zusammenarbeit:
+
+main/master: Stabiler, produktionsreifer Code.
+
+develop (optional): Integration-Branch für Features.
+
+Feature-Branches: Erstellt von develop/main mit Namen wie feature/beschreibung (z.B. feature/kontaktformular-hinzufügen).
+
+Hotfix-Branches: Für dringende Bugfixes (z.B. hotfix/login-fehler).
+
+Regeln:
+
+Vor dem Pushen immer die neuesten Änderungen pullen.
+
+Code-Reviews via Pull Requests (PRs) vor dem Mergen durchführen.
+
+Gemergte Branches löschen, um das Repository sauber zu halten.
+
+
+
+
+
+
+
+
