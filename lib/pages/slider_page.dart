@@ -116,13 +116,14 @@ class _SliderPageState extends State<SliderPage> {
   }
 
   Color _getColorFromValue(double value) {
-    if (value <= 25)
+    if (value <= 25) {
       return Colors.red;
-    else if (value <= 50)
+    } else if (value <= 50) {
       return Colors.orange;
-    else if (value <= 75)
+    } else if (value <= 75) {
       return Colors.yellow;
-    else
+    } else {
       return Colors.green;
+    }
   }
 }
