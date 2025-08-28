@@ -133,14 +133,12 @@ class SummaryPage extends StatelessWidget {
               ],
             ),
             const SizedBox(height: 12),
-            ...items
-                .map(
-                  (item) => Padding(
-                    padding: const EdgeInsets.only(bottom: 4),
-                    child: Text(item, style: const TextStyle(fontSize: 14)),
-                  ),
-                )
-                .toList(),
+            ...items.map(
+              (item) => Padding(
+                padding: const EdgeInsets.only(bottom: 4),
+                child: Text(item, style: const TextStyle(fontSize: 14)),
+              ),
+            ),
           ],
         ),
       ),
